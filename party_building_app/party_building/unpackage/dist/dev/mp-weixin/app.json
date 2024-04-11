@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/user_login/login-withpwd",
+    "uni_modules/uni-id-pages/pages/userinfo/change_pwd/change_pwd",
+    "pages/cgjq/cgjq",
+    "pages/dnpp/dnpp",
+    "pages/swjs/swjs"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
